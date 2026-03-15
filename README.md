@@ -175,7 +175,7 @@ https://你的worker域名/https//example.com/path?query=1
 
 ## 更新日志
 
-**v2.0（增强版）**
+**v260315-dev2（增强版）**
 - 新增 17 种正则替换规则，覆盖更多 URL 格式
 - 新增 CSS 文件独立处理
 - 新增响应头安全限制移除（CSP、X-Frame-Options）
@@ -185,7 +185,7 @@ https://你的worker域名/https//example.com/path?query=1
 - 修复 `location.href` getter 返回值错误
 - 新增 `action` 属性处理（表单提交）
 
-**v1.0（基础版）**
+**v260314-dev1（基础版）**
 - 基础反向代理功能
 - 5 种正则替换
 - 基础 JS 钩子劫持
